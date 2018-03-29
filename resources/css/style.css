@@ -14,7 +14,7 @@ body {
   color: white;
   text-align: center;
 }
-.download {
+.download a {
   color: aquamarine;
   font-size: 16px;
 }
@@ -33,6 +33,6 @@ p {
   text-align: right;
   color: gray;
 }
-img {
-  align-item: center;
+.phone {
+  margin: 20px;
 }
