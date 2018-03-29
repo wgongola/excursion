@@ -14,7 +14,7 @@ body {
   color: white;
   text-align: center;
 }
-.download a {
+a , .download {
   color: aquamarine;
   font-size: 16px;
 }
