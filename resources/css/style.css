@@ -1,6 +1,11 @@
+html {
+  background-color: black;
+}
 body {
-  background-color: black
+  background-color: black;
   text-align: center;
+  colorL: white;
+  font-family: verdana, sans-serif;
 }
 .heading {
   font-family: Verdana;
